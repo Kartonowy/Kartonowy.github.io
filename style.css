@@ -31,7 +31,6 @@ body {
 section {
     width: calc(100vw - 80px);
     height: 100vh;
-    outline: 1px red solid;
     padding: 40px;
     z-index: 1;
 }
