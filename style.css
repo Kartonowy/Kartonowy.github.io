@@ -69,6 +69,16 @@ a {
     padding-top: 0px;
     height: 40%;
 }
+
+#rodo {
+    padding-top: 5px;
+    margin-top: 1%;
+    height: 25%;
+}
+#rodo p {
+    font-size: 1em;
+}
+
 div#aboutme {
     width: 60%;
 }
